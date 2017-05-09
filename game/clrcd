@@ -1,0 +1,1 @@
+mysql -u root -p -e "DELETE FROM cred" -D Users
